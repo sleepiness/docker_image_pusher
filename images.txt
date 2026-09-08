@@ -1,7 +1,7 @@
 #nginx
 #docker.n8n.io/n8nio/n8n
 #gerritcodereview/gerrit
-dushixiang/guacd:latest
+#dushixiang/guacd:latest
 #postgres:16.4
 dushixiang/next-terminal:latest
 #支持私库
@@ -10,3 +10,4 @@ dushixiang/next-terminal:latest
 #支持指定架构 
 #--platform=linux/arm64 xiaoyaliu/alist
 calciumion/new-api:latest
+diegosouzapw/omniroutedocker
